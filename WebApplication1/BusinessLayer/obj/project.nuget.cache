@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2KaC255BVvytbkzbLNA2hObKAZPlc2/bif12CTtflVxLbylpBqHTVP726F5QnaVZjUC6hM0FEinaRB1d9+HcvA==",
+  "dgSpecHash": "LZirv48VgOiFscrahJuPjwm7FhI7Yy9eeh1E5qP4cMPzpnLrsAhQQsjNEEIBP2Pm+l0icCVC2z/3x5BRHu/7xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\SpuerFolio\\WebApplication1\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\SuperFolio\\WebApplication1\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
