@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0FUixMehp0R26u+QktVnJ/AEXldJervs1NzT1o14167/AW7a7UtnEiv3xkZ7FtZ9Jrs/SwrmPHkaWoyZiGjs0Q==",
+  "dgSpecHash": "I2NUqcEj2y03iQTHh3J4alcTCAvk3UB4FcpC6lkWFaeLg7zvQ9Wmqeg1gId8/naDgGmv/yp3nhiNYIsVFCjizg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\Source\\Repos\\Asp.Net_Core_WebDevelopment\\WebApplication1\\WebApplication1\\SuperFolio.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Portfolio\\WebApplication1\\WebApplication1\\SuperFolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
