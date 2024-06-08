@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2fhGgGqSAjGU0Hs9AllezNC182PGnLhw7gstgVAKQjd4jx4DdN29wfJFNGCShi6/x2L2wQ1umZmRcWh3ddEfig==",
+  "dgSpecHash": "E9C16g1lE1SPTPJZUsulR0XgexG0MKfq2EAtyAhbAOSv4FBKqNy3DjNiuEMyaU4/6WnyKiRPlDo9Y/zPaarmWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Portfolio\\WebApplication1\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

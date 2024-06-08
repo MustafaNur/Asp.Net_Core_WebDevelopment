@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vP8Xax/fSwblxBR3hEPTLIlDY3ao1GIVVBm4xxzocJIyXxYeRp+qld6hiIhgamUw9ap6gIF3fg6gJJE6zTTiiQ==",
+  "dgSpecHash": "zkODqZtU1aK7LK22Vv/5UPnSOwCC0s+gmue7WjJTJ3qHAiLaMBJh80CLBjPA268ys0GQRoi1rYnVkXOhgVE+2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Portfolio\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

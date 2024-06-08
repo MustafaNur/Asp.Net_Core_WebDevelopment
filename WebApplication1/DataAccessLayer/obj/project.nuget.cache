@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N+Fme+DImggbKiFLl0zdwLAn5lQyvYg0hQc7uqzQfdC5TeBP3XpYPaBLdcgzfFbTcKiufFibXHFjbiq1GtU8uA==",
+  "dgSpecHash": "7qob9JGXUXTiMrvTtd4gXG5pUgQM5R7jViXuzubH4y0jjqZswO3hERf9xA6H2GUTC9NrbkiTUHwShAupmbuEVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Portfolio\\WebApplication1\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mustafa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
