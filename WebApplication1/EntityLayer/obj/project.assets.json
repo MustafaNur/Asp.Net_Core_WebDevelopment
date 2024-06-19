@@ -3517,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Admin\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Admin\\WebApplication1\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Mustafa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Yeni klasör\\WebApplication1\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Mustafa\\source\\repos\\Asp.Net_Core_WebDevelopment\\Admin\\WebApplication1\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

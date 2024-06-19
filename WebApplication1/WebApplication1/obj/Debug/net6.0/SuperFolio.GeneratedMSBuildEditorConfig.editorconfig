@@ -9,105 +9,125 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SuperFolio
 build_property.RootNamespace = SuperFolio
-build_property.ProjectDir = C:\Users\Mustafa\source\repos\Asp.Net_Core_WebDevelopment\Yeni klasör\WebApplication1\WebApplication1\
+build_property.ProjectDir = C:\Users\Mustafa\source\repos\Asp.Net_Core_WebDevelopment\Admin\WebApplication1\WebApplication1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Mustafa\source\repos\Asp.Net_Core_WebDevelopment\Yeni klasör\WebApplication1\WebApplication1
+build_property.MSBuildProjectDirectory = C:\Users\Mustafa\source\repos\Asp.Net_Core_WebDevelopment\Admin\WebApplication1\WebApplication1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Admin/PartialSideBar.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Admin/PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Admin/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbEhlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Admin/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Admin/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNjcmlwdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Admin/PartialSideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFydGlhbFNpZGVCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Default/HeaderPartial.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Default/HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxIZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Default/Index.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Default/NavbarPartial.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Default/NavbarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxOYXZiYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Default/SendMessage.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Default/SendMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxTZW5kTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Feature/Index.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Feature/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/AboutList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/AboutList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/ContactDetails/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/ContactDetails/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdERldGFpbHNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/ExperienceList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/ExperienceList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXhwZXJpZW5jZUxpc3RcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/FeatureList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/FeatureList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZUxpc3RcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/PortfolioList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/PortfolioList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9ydGZvbGlvTGlzdFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/SendMessage/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/SendMessage/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VuZE1lc3NhZ2VcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/ServiceList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/ServiceList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZUxpc3RcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/SkillList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/SkillList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2tpbGxMaXN0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Components/TestimonialsList/Default.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Components/TestimonialsList/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxzTGlzdFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Skill/Index.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Skill/AddSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQWRkU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Skill/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Yeni klasör/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+[C:/Users/Mustafa/source/repos/Asp.Net_Core_WebDevelopment/Admin/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j1n815a36e
